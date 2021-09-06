@@ -1,0 +1,11 @@
+C:\Users\Nur\source\repos\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+C:\Users\Nur\source\repos\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe
+C:\Users\Nur\source\repos\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.pdb
+C:\Users\Nur\source\repos\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.Form1.resources
+C:\Users\Nur\source\repos\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.Properties.Resources.resources
+C:\Users\Nur\source\repos\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.exe
+C:\Users\Nur\source\repos\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.pdb
+C:\Users\Nur\source\repos\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.FormOrnek.resources
